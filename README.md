@@ -25,3 +25,5 @@ Requirements:
   	GET /profile - View own profile (for all users).
 
 7.	Implement proper permissions and authentication in DRF.
+
+Frontend repo link : https://github.com/AshikR7/react-erp
